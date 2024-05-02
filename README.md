@@ -2,7 +2,7 @@
 Hi! 
 
 ### Python: Data Analysis and Machine Learning
-1. Predicting Habitable Exoplanets
+1. [Predicting Habitable Exoplanets](https://github.com/eleanoralvarez/Predicting-Habitable-Exoplanets.git)
 2. [Predicting Humanitarian Crisis](https://github.com/eleanoralvarez/Predicting-Humanitarian-Crisis.git)
 ### Dashboards
 1. NASA Planetary Science Budget (Tableau)
