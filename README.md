@@ -7,6 +7,6 @@ A work in progress :)
 2. [Predicting Humanitarian Crisis](https://github.com/eleanoralvarez/Predicting-Humanitarian-Crisis.git)
 ### Dashboards
 1. [NASA Planetary Science Budget (Tableau)](https://eleanoralvarez.github.io/NASA-Planetary-Science-Budget/)
-2. Humanitatian Crises (Power BI)
+2. [Humanitatian Crises (Power BI)](https://github.com/eleanoralvarez/PowerBI-Predicting-Humanitarian-Crises/tree/main)
 ### SQL
 
